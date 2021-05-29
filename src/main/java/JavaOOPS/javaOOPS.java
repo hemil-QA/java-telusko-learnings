@@ -20,7 +20,7 @@ public class javaOOPS {
 //
 //
 //        Vehicle.getVehicle();
-
+//
 //        Car car1 = new Car("civic", "white", "2019", "honda","4100",false,true);
 //        System.out.println(car1.getLedScreen());
 //        System.out.println(car1.getName());
